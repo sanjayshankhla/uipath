@@ -1,0 +1,12 @@
+{
+  "description": "Test Orchestrator API",
+  "version": "2016.2.6274.33252",
+  "main": "Main.xaml",
+  "id": "TEST_ORCHESTRATOR_API",
+  "dependencies": {},
+  "configurationOptions": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ]
+}
